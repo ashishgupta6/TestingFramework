@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		39ED48F12D0211EF00584401 /* FrameworkTesting.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FrameworkTesting.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		39ED48F12D0211EF00584401 /* ShopSphare.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ShopSphare.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		39ED48F62D0211EF00584401 /* Exceptions for "FrameworkTesting" folder in "FrameworkTesting" target */ = {
+		39ED48F62D0211EF00584401 /* Exceptions for "ShopSphare" folder in "ShopSphare" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			publicHeaders = (
-				FrameworkTesting.h,
+				ShopSphare.h,
 			);
-			target = 39ED48F02D0211EF00584401 /* FrameworkTesting */;
+			target = 39ED48F02D0211EF00584401 /* ShopSphare */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		39ED48F32D0211EF00584401 /* FrameworkTesting */ = {
+		39ED48F32D0211EF00584401 /* ShopSphare */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				39ED48F62D0211EF00584401 /* Exceptions for "FrameworkTesting" folder in "FrameworkTesting" target */,
+				39ED48F62D0211EF00584401 /* Exceptions for "ShopSphare" folder in "ShopSphare" target */,
 			);
-			path = FrameworkTesting;
+			path = ShopSphare;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +45,7 @@
 		39ED48E72D0211EF00584401 = {
 			isa = PBXGroup;
 			children = (
-				39ED48F32D0211EF00584401 /* FrameworkTesting */,
+				39ED48F32D0211EF00584401 /* ShopSphare */,
 				39ED48F22D0211EF00584401 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		39ED48F22D0211EF00584401 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				39ED48F12D0211EF00584401 /* FrameworkTesting.framework */,
+				39ED48F12D0211EF00584401 /* ShopSphare.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -71,9 +71,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		39ED48F02D0211EF00584401 /* FrameworkTesting */ = {
+		39ED48F02D0211EF00584401 /* ShopSphare */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 39ED48F72D0211EF00584401 /* Build configuration list for PBXNativeTarget "FrameworkTesting" */;
+			buildConfigurationList = 39ED48F72D0211EF00584401 /* Build configuration list for PBXNativeTarget "ShopSphare" */;
 			buildPhases = (
 				39ED48EC2D0211EF00584401 /* Headers */,
 				39ED48ED2D0211EF00584401 /* Sources */,
@@ -85,13 +85,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				39ED48F32D0211EF00584401 /* FrameworkTesting */,
+				39ED48F32D0211EF00584401 /* ShopSphare */,
 			);
-			name = FrameworkTesting;
+			name = ShopSphare;
 			packageProductDependencies = (
 			);
 			productName = DemoTestFramework;
-			productReference = 39ED48F12D0211EF00584401 /* FrameworkTesting.framework */;
+			productReference = 39ED48F12D0211EF00584401 /* ShopSphare.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 39ED48EB2D0211EF00584401 /* Build configuration list for PBXProject "FrameworkTesting" */;
+			buildConfigurationList = 39ED48EB2D0211EF00584401 /* Build configuration list for PBXProject "ShopSphare" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -122,7 +122,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				39ED48F02D0211EF00584401 /* FrameworkTesting */,
+				39ED48F02D0211EF00584401 /* ShopSphare */,
 			);
 		};
 /* End PBXProject section */
@@ -352,7 +352,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		39ED48EB2D0211EF00584401 /* Build configuration list for PBXProject "FrameworkTesting" */ = {
+		39ED48EB2D0211EF00584401 /* Build configuration list for PBXProject "ShopSphare" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				39ED48FA2D0211EF00584401 /* Debug */,
@@ -361,7 +361,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		39ED48F72D0211EF00584401 /* Build configuration list for PBXNativeTarget "FrameworkTesting" */ = {
+		39ED48F72D0211EF00584401 /* Build configuration list for PBXNativeTarget "ShopSphare" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				39ED48F82D0211EF00584401 /* Debug */,

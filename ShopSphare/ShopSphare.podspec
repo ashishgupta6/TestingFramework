@@ -1,12 +1,12 @@
 Pod::Spec.new do |spec|
-  spec.name         = 'FrameworkTesting'
+  spec.name         = 'ShopSphare'
   spec.version      = '1.0.0'
-  spec.summary      = 'FrameworkTesting provides essential tools for seamless app integration.'
-  spec.description  = 'FrameworkTesting is a lightweight framework designed to enhance app functionality by providing intuitive tools and features for iOS development. It is built with flexibility, scalability, and ease of use in mind.'
-  spec.homepage     = 'https://ashishgupta8051.github.io/portfolio'
+  spec.summary      = 'ShopSphare provides essential tools for seamless app integration.'
+  spec.description  = 'ShopSphare is a lightweight framework designed to enhance app functionality by providing intuitive tools and features for iOS development. It is built with flexibility, scalability, and ease of use in mind.'
+  spec.homepage     = 'https://github.com/ashishgupta6/TestingFramework'
   spec.license = { :type => 'MIT', :text => <<-LICENSE
      Permission is hereby granted, free of charge, to any person obtaining a copy
-     of the FrameworkTesting and associated documentation files (the "Software"),
+     of the ShopSphare and associated documentation files (the "Software"),
      to deal in the Software without restriction, including without limitation the
      rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
      copies of the Software, and to permit persons to whom the Software is
@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   }
   spec.author      = {'Ashish Gupta' => 'ashish.gupta@sign3labs.com'}
   spec.platform     = :ios, "13"
-  spec.source       = { :http => 'https://sign3.jfrog.io/artifactory/intelligence-test-local/com/sign3/intelligence/test-intelligence-iOS/1.0.15/FrameworkTesting.xcframework.zip' }
+  spec.source       = { :http => 'https://sign3.jfrog.io/artifactory/intelligence-test-local/com/sign3/intelligence/test-intelligence-iOS/1.0.0/FrameworkTesting.xcframework.zip' }
   spec.vendored_frameworks = 'FrameworkTesting.xcframework'
   spec.ios.deployment_target = '13.0'
   spec.swift_versions = "6.0.2"

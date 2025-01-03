@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "39ED48F02D0211EF00584401"
-               BuildableName = "FrameworkTesting.framework"
-               BlueprintName = "FrameworkTesting"
-               ReferencedContainer = "container:FrameworkTesting.xcodeproj">
+               BuildableName = "ShopSphare.framework"
+               BlueprintName = "ShopSphare"
+               ReferencedContainer = "container:ShopSphare.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -51,9 +51,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "39ED48F02D0211EF00584401"
-            BuildableName = "FrameworkTesting.framework"
-            BlueprintName = "FrameworkTesting"
-            ReferencedContainer = "container:FrameworkTesting.xcodeproj">
+            BuildableName = "ShopSphare.framework"
+            BlueprintName = "ShopSphare"
+            ReferencedContainer = "container:ShopSphare.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
