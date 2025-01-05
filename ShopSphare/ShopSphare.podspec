@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.version      = '1.0.4'
   spec.summary      = 'ShopSphare provides essential tools for seamless app integration.'
   spec.description  = 'ShopSphare is a lightweight framework designed to enhance app functionality by providing intuitive tools and features for iOS development. It is built with flexibility, scalability, and ease of use in mind.'
-  spec.homepage     = 'https://cocoapods.org/pods/ShopSphare'
+  spec.homepage     = 'https://github.com/ashishgupta6/TestingFramework'
   spec.license = { :type => 'Custom', :text => 'Copyright 2024 SIGN3 TECHNOLOGIES PRIVATE LIMITED'}
   spec.author      = {'Ashish Gupta' => 'ashish.gupta@sign3labs.com'}
   spec.platform     = :ios, "13"
