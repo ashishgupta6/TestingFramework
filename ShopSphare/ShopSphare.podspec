@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'ShopSphare'
-  spec.version      = '1.0.4'
+  spec.version      = '1.0.5'
   spec.summary      = 'ShopSphare provides essential tools for seamless app integration.'
   spec.description  = 'ShopSphare is a lightweight framework designed to enhance app functionality by providing intuitive tools and features for iOS development. It is built with flexibility, scalability, and ease of use in mind.'
   spec.homepage     = 'https://github.com/ashishgupta6/TestingFramework'
